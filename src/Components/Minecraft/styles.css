@@ -1,0 +1,12 @@
+.texture-container{
+    position: absolute;
+    top: 10%; 
+    left: 10%;
+    transform: scale(5);
+    
+}
+
+img.active{
+    border: 2px solid blue;
+}
+
